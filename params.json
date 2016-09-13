@@ -1,6 +1,6 @@
 {
   "name": "Unterrainerinformatik.GitHub.io",
-  "tagline": "This is a link-list for game-development in general and specifically using MonoGame. Feel free to contribute via a pull-request. Thx.",
+  "tagline": "Making awesome games for awesome people.",
   "body": "## Homepage\r\nFind and follow us on our homepage.  \r\n* [**Unterrainer Informatik OG**](http://www.unterrainer.info/)\r\n\r\n## Throbax TD\r\n* [**On our homepage**](http://www.unterrainer.info/Home#/throbax)\r\n* [**On Steam**](http://store.steampowered.com/app/341570)\r\n* [**On our blog**](http://throbax.blogspot.co.at/p/the-game.html)\r\n\r\n## Developer Guides\r\n* [**Our developer's link-list**](https://github.com/UnterrainerInformatik/GameDevelopmentLinks) - Our personal link-list with all the goodies we've accumulated over the years. Feel free to fork and make pull-requests...\r\n* [**Awesome-MonoGame**](https://github.com/aloisdeniel/awesome-monogame) - A list of projects on GitHub tied to MonoGame. Thx to Alois Deniel for this awesome work.",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
